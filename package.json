@@ -1,5 +1,5 @@
 {
-  "name": "clipboard-landing-page",
+  "name": "vite-react-template",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
